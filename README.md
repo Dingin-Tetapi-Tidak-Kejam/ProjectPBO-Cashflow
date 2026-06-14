@@ -7,10 +7,12 @@
 
 ## 👥 Anggota Kelompok
 
-| 1  | Nasywa Zavira Lubis | 241401006 | 
-| 2  | Dewi Fortuna Halim | 241401066 | 
-| 3  | Pocut Qanitah Putroe Azizul | 241401105 | 
-| 4  | Valmai Imtiyaz | 241401135 | 
+| No | Nama | NIM |
+|----|------|-----|
+| 1  | Nasywa Zavira Lubis | 241401006 |
+| 2  | Dewi Fortuna Halim | 241401066 |
+| 3  | Pocut Qanitah Putroe Azizul | 241401105 |
+| 4  | Valmai Imtiyaz | 241401135 |
 
 ---
 
